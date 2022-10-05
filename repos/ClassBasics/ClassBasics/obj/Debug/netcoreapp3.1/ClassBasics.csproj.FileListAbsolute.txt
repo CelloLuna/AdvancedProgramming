@@ -1,0 +1,14 @@
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.exe
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.deps.json
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.runtimeconfig.json
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.runtimeconfig.dev.json
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.dll
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\bin\Debug\netcoreapp3.1\ClassBasics.pdb
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.AssemblyInfoInputs.cache
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.AssemblyInfo.cs
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.dll
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.pdb
+C:\Users\lunmars\source\repos\ClassBasics\ClassBasics\obj\Debug\netcoreapp3.1\ClassBasics.genruntimeconfig.cache

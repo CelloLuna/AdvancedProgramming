@@ -1,0 +1,13 @@
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.exe
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.deps.json
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.runtimeconfig.json
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.runtimeconfig.dev.json
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.dll
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\bin\Debug\netcoreapp3.1\ResearchAndDevelopment2.pdb
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.AssemblyInfoInputs.cache
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.AssemblyInfo.cs
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.dll
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.pdb
+C:\Users\lunmars\source\repos\ResearchAndDevelopment2\ResearchAndDevelopment2\obj\Debug\netcoreapp3.1\ResearchAndDevelopment2.genruntimeconfig.cache

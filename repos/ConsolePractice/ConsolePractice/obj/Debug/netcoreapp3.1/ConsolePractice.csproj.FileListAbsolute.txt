@@ -1,0 +1,14 @@
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.exe
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.deps.json
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.runtimeconfig.json
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.runtimeconfig.dev.json
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.dll
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\bin\Debug\netcoreapp3.1\ConsolePractice.pdb
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.AssemblyInfoInputs.cache
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.AssemblyInfo.cs
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.dll
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.pdb
+C:\Users\lunmars\source\repos\ConsolePractice\ConsolePractice\obj\Debug\netcoreapp3.1\ConsolePractice.genruntimeconfig.cache

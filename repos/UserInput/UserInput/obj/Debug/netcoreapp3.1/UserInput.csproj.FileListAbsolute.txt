@@ -1,0 +1,14 @@
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.AssemblyReference.cache
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\lunmars\OneDrive - Dunwoody College of Technology\Documents\AdvancedProgramming\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
