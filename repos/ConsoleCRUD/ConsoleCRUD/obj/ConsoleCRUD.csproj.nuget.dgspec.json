@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunmars\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj": {}
+    "C:\\Users\\lunmars\\OneDrive - Dunwoody College of Technology\\Documents\\AdvancedProgramming\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunmars\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj": {
+    "C:\\Users\\lunmars\\OneDrive - Dunwoody College of Technology\\Documents\\AdvancedProgramming\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunmars\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\lunmars\\OneDrive - Dunwoody College of Technology\\Documents\\AdvancedProgramming\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj",
         "projectName": "ConsoleCRUD",
-        "projectPath": "C:\\Users\\lunmars\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj",
+        "projectPath": "C:\\Users\\lunmars\\OneDrive - Dunwoody College of Technology\\Documents\\AdvancedProgramming\\repos\\ConsoleCRUD\\ConsoleCRUD\\ConsoleCRUD.csproj",
         "packagesPath": "C:\\Users\\lunmars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunmars\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\obj\\",
+        "outputPath": "C:\\Users\\lunmars\\OneDrive - Dunwoody College of Technology\\Documents\\AdvancedProgramming\\repos\\ConsoleCRUD\\ConsoleCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
